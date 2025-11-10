@@ -23,8 +23,8 @@ navigation:
   #   url: /2025#panelists
   # - title: "Accepted Papers"
   #   url: /glb2022#accepted-papers
-  - title: "Participate"
-    url: /2026#participate
+  - title: "Participants"
+    url: /2026#participants
   # - title: "Relevant Workshops"
   #  url: /relevant
 
@@ -146,7 +146,7 @@ To be announced. -->
 </ul> -->
 
 
-# Participate
+# Participants
 Please contact us at casbs2025 at gmail dot com if you have any questions.
 
 {% include feature_row id="participants"%}
