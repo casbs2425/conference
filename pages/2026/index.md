@@ -16,15 +16,15 @@ navigation:
   # - title: "CFP"
   #   url: /2025/call-for-papers
   - title: "Program"
-    url: /2025#program
+    url: /2026#program
   # - title: "Keynotes"
   #   url: /2025#keynotes
   # - title: "Panelists"
   #   url: /2025#panelists
   # - title: "Accepted Papers"
   #   url: /glb2022#accepted-papers
-  - title: "Organization"
-    url: /2025#organization
+  - title: "Participate"
+    url: /2026#participate
   # - title: "Relevant Workshops"
   #  url: /relevant
 
@@ -113,15 +113,13 @@ This workshop aims to catalyze discussions and collaborations that will shape th
 
 | Time (PDT) | Agenda |
 | ----------------- | ------------ |
-| **08:00-09:00**    | **Transportation, Registration, and Breakfast** |
-| **09:00-09:20**    | **Opening Remarks** by Matthew O. Jackson (Stanford) | 
-| **09:20-10:40**    | **Topic 1: How can AI serve as a transformative tool for behavioral science research?** <br> James Evans (Chicago), Thomas Pfeiffer (Massey), Diyi Yang (Stanford) |
-| **11:00-12:20**    | **Topic 2: How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?** <br> Colin Camerer (Caltech), Juanjuan Meng (Peking University), Teng Ye (University of Minnesota) |
-| **12:20-13:40**    | **Lunch Break and Discussion** |
-| **13:40-15:00**    | **Topic 3: How can understanding AI behaviors provide deeper insights into human decision-making processes?** <br> Brian Jabarian (Chicago), Stephanie W. Wang (University of Pittsburgh), Robb Willer (Stanford) |
-| **15:20-16:40**    | **Topic 4: How can we envision the future of human-AI collaboration to maximize societal benefits?** <br> Seth Benzell (Chapman), Erik Brynjolfsson (Stanford), Jon Kleinberg (Cornell), Asu Ozdaglar (MIT) |
-| **16:40-17:00**    | **Summary and Closing Remarks** by Qiaozhu Mei (University of Michigan) |
-| **17:00-19:00**    | **Dinner Reception** |
+| **09:00-09:30**    | **Opening Remarks** by XX | 
+| **09:30-10:45**    | **Topic 1: XX** <br>  |
+| **10:45-12:00**    | **Topic 2: XX** <br>  |
+| **12:00-13:30**    | **Lunch Break and Discussion** |
+| **13:30-15:00**    | **Topic 3: XX** <br>  |
+| **15:00-16:30**    | **Topic 4: XX** <br>  |
+| **16:30-17:00**    | **Summary and Closing Remarks** by XX |
 
 Please note that this preliminary program is subject to change.
 
