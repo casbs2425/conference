@@ -146,10 +146,10 @@ To be announced. -->
 </ul> -->
 
 
-# Organization
+# Participate
 Please contact us at casbs2025 at gmail dot com if you have any questions.
 
-{% include feature_row id="organizers"%}
+{% include feature_row id="participants"%}
 
 <!-- # Program Committee
 
