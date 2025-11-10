@@ -46,6 +46,7 @@ panelists:
 
 participants:
 
+- image_path: /assets/images/2025/xxx.jpeg
       alt: "Katy DeCelles"
       excerpt: >
         **Katy DeCelles**<br>
@@ -53,7 +54,7 @@ participants:
         [)
       bio: >
 
-
+- image_path: /assets/images/2025/xxx.jpeg
       alt: "Maureen Eger"
       excerpt: >
         **Maureen Eger**<br>
@@ -61,7 +62,7 @@ participants:
         [)
       bio: >
     
-
+- image_path: /assets/images/2025/xxx.jpeg
       alt: "Alice Farmer"
       excerpt: >
         **Alice Farmer**<br>
@@ -69,7 +70,7 @@ participants:
         [)
       bio: >
 
-
+- image_path: /assets/images/2025/xxx.jpeg
       alt: "Ann Owens"
       excerpt: >
         **Ann Owens**<br>
@@ -78,24 +79,13 @@ participants:
       bio: >
 
 
-        
 
 ---
 
 
 # Overview
 
-The field of AI Behavioral Science is rapidly emerging at the intersection of artificial intelligence and behavioral science research. As AI systems increasingly shape human experiences— ranging from influencing decision-making on social media to automating tasks in the labor market— behavioral scientists and AI researchers face the critical challenge of understanding and guiding these interactions for positive outcomes. Central to this endeavor is the study of behaviors exhibited by sophisticated AI models, trained on vast human datasets and iteratively refined through human feedback.
-
-This workshop will explore four pivotal questions:
-
-1. How can AI serve as a transformative tool for behavioral science research?
-2. How can behavioral science principles enhance our ability to evaluate and interpret AI behaviors?
-3. How can understanding AI behaviors provide deeper insights into human decision-making processes?
-4. How can we envision the future of human-AI collaboration to maximize benefits for individuals, organizations, and society?
-
-This workshop aims to catalyze discussions and collaborations that will shape the future of this promising field by bringing together thought leaders and practitioners from across disciplines.
-
+TBD.
 
 # Program
 
